@@ -127,3 +127,8 @@ body,
 .icon {
   color: red;
 }
+
+.admin-button {
+  width: 80%;
+  margin: 5%;
+}
